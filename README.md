@@ -2,12 +2,13 @@
 output should be [1, 3].
 
 Find two same/match items from two arrays.
-Please check this link for the repository
+
 Stack :
 - Java in eclipse
 - Junit Library
 - Cucumber Plugin for Eclipse
 - Cucumber library
+
 How to run the program :
  - Open program/Fabelio.java to run the main class. This class will call a function to check the arrays. Run from this file
  
